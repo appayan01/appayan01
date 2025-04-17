@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @appayan01
-- 👀 I’m interested in Maths, Computer Science and Physics.
-- 🌱 I’m currently learning Python, Java. 
+- 👀 I’m interested in Maths, Deep Learning, and Data Science.
+- 🌱 I’m currently learning Python, R, PowerBi.
 - 🐱 I like comics, cats, music and learning languages.
 - 📫 How to reach me : drop a mail at appayanmondal01@gmail.com
 
