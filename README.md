@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @appayan01
 - 👀 I’m interested in Maths, Deep Learning, and Computer Science.
-- 🌱 I’m currently learning Python, R, PowerBi.
+- 🌱 I’m currently learning more about these!
 - 🐱 I like comics, cats, painting, music, and learning languages.
 - 📫 How to reach me : drop a mail at appayan.math@gmail.com
 
